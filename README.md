@@ -1,5 +1,6 @@
 ### Hi there 👋
-✨HTML IS NOT PROGRAMMING LANGUAGE & 100% COFFE BREAK 0% CODE BREAK  
+✨HTML IS NOT PROGRAMMING LANGUAGE
+ Achivement : Still breath and alive 
  ~ Quotes the day : increase multi-tasking rather than multi-asking 😄 
 ✨Linkendln : Muhammad Ari Kuncoro
 <!--

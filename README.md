@@ -76,8 +76,6 @@ focus   : Backend · Mobile · Web
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=muhammad-ari-kuncoro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ari-kuncoro&layout=compact&theme=tokyonight" />
 
 </div>
 

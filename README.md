@@ -73,7 +73,9 @@ focus   : Backend · Mobile · Web
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammad-ari-kuncoro&show_icons=true&theme=tokyonight" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammad-ari-kuncoro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ari-kuncoro&layout=compact&theme=tokyonight" />
 
@@ -110,7 +112,7 @@ focus   : Backend · Mobile · Web
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=79C0FF&center=true&vCenter=true&multiline=false&width=700&lines=%22Good+software+is+not+only+about+writing+code...%22;%22...but+about+creating+solutions+that+are+reliable%2C+scalable%2C+and+meaningful.%22;%22Code+with+purpose%2C+build+with+passion.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=79C0FF&center=true&vCenter=true&multiline=false&width=700&lines=%22Good+software+is+not+only+about+writing+code...%22;%22+but+about+creating+solutions+that+are+reliable%2C+scalable%2C+and+meaningful.%22;%22Code+with+purpose%2C+build+with+passion.%22)](https://git.io/typing-svg)
 
 </div>
 

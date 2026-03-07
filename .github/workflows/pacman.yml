@@ -16,14 +16,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: generate pacman
-        uses: gluons/pacman-contribution-graph@v1
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          outputDir: dist
+          github_user_name: ${{ github.repository_owner }}
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
